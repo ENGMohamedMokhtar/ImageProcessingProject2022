@@ -19,9 +19,8 @@ This project is divided into two phases:
 	    notes: you will find some output videos are clipped to get the acceptable size of GitHub to be uploaded successfully (less than 25M).
 
 * phase two -> vehicle detection (path -> ImageProcessingProject2022/phase two)
-    
-	    objective:
-	      1- detect cars in the road.
+    ## objective:
+	### 1- detect vehicles in the road.
 
 	    notes:
 	      1- you must copy your data folders (vehicles & non-vehicles) in phase two folder // I didn't upload those files because they are so large.
