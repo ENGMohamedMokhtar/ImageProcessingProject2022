@@ -13,7 +13,7 @@ This project is divided into two phases:
 	      1- SIMPLE lane line detection
 		    It's a simple code I created from A to Z just detecting the lane lines.
 	      2- ADVANCED lane line detection
-		    I followed some projects on GITHUB and modified one to work on with my project data.
+		    I followed some projects on GitHub and modified one to work on with my project data.
 	      3- MODIFIED lane line detection
 		    I tried to create a new code based on some previous projects and eliminate unwanted functions, but it's not worked, unfortunately.
 
