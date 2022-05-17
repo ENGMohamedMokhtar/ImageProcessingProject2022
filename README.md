@@ -12,11 +12,11 @@ This project is divided into two phases:
 
     ## uploaded files:
 	### 1- SIMPLE lane line detection
-		    It's a simple code I created from A to Z just detecting the lane lines.
+		 It's a simple code I created from A to Z just detecting the lane lines.
 	### 2- ADVANCED lane line detection
-		    I followed some projects on GitHub and modified one to work on with my project data.
+		 I followed some projects on GitHub and modified one to work on with my project data.
 	### 3- MODIFIED lane line detection
-		    I tried to create a new code based on previous projects & eliminate unwanted functions, but it's not worked, unfortunately.
+		 I tried to create a new code based on previous projects & eliminate unwanted functions, but it's not worked, unfortunately.
 
     ## notes:
       you will find some output videos are clipped to get the acceptable size of GitHub to be uploaded successfully(less than 25M).
