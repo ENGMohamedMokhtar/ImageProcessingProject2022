@@ -1,7 +1,7 @@
 # ImageProcessingProject2022
 
 This project is divided into two phases:
-1- phase one -> lane line detection (named -> ImageProcessingProject2022/phase)
+phase one: lane line detection (named -> ImageProcessingProject2022/phase)
     objective:
       1- detect lane lines.
       2- measure the curvature of the road.
