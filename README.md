@@ -25,5 +25,5 @@ This project is divided into two phases:
 	      1- detect cars in the road.
 
 	    notes:
-	      1- you must copy your data folders in the project phase two folder named by (cars & non-cars) // I didn't upload those files because they are so large.
+	      1- you must copy your data folders (vehicles & non-vehicles) in phase two folder // I didn't upload those files because they are so large.
 	      2- you will find some output videos are clipped to get the acceptable size of GitHub to be uploaded successfully (less than 25M).
