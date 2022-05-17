@@ -3,11 +3,10 @@
 This project is divided into two phases:
     
 * phase one -> lane line detection (path -> ImageProcessingProject2022/phase)
-    
-	    objective:
-	      1- detect lane lines.
-	      2- measure the curvature of the road.
-	      3- measure the distance from the center lane.
+    ## objective:
+	### 1- detect lane lines.
+	### 2- measure the curvature of the road.
+	### 3- measure the distance from the center lane.
 
 	    uploaded files:
 	      1- SIMPLE lane line detection
