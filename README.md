@@ -2,7 +2,7 @@
 
 This project is divided into two phases:
     
-    1- phase one -> lane line detection (named -> ImageProcessingProject2022/phase)
+* phase one -> lane line detection (named -> ImageProcessingProject2022/phase)
     
 	    objective:
 	      1- detect lane lines.
@@ -19,7 +19,7 @@ This project is divided into two phases:
 
 	    notes: you will find some output videos are clipped to get the acceptable size of GitHub to be uploaded successfully (less than 25M).
 
-    1- phase two -> vehicle detection (named -> ImageProcessingProject2022/phase two)
+* phase two -> vehicle detection (named -> ImageProcessingProject2022/phase two)
     
 	    objective:
 	      1- detect cars in the road.
