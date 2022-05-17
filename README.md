@@ -2,7 +2,9 @@
 
 This project is divided into two phases:
     
-* phase one -> lane line detection (path -> ImageProcessingProject2022/phase)
+* phase one -> lane line detection 
+	path -> ImageProcessingProject2022/phase
+	
     ## objective:
 	### 1- detect lane lines.
 	### 2- measure the curvature of the road.
@@ -16,7 +18,8 @@ This project is divided into two phases:
 	### 3- MODIFIED lane line detection
 		    I tried to create a new code based on some previous projects and eliminate unwanted functions, but it's not worked, unfortunately.
 
-	    notes: you will find some output videos are clipped to get the acceptable size of GitHub to be uploaded successfully (less than 25M).
+    ## notes:
+    	you will find some output videos are clipped to get the acceptable size of GitHub to be uploaded successfully (less than 25M).
 
 * phase two -> vehicle detection (path -> ImageProcessingProject2022/phase two)
     ## objective:
